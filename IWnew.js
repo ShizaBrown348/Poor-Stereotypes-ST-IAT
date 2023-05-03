@@ -6,7 +6,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/ShizaBrown348/Final@main/qstia1.j
 		    name : 'Poor People', //Will appear in the data.
 		    title : {
 		      media : {word : 'Poor people'}, //Name of the category presented in the task.
-		      css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
+		      css : {color:'#31b404','font-size':'2.5em'}, //Style of the category title.
 		      height : 7 //Used to position the "Or" in the combined block.
 		    }, 
 		    media : [ //Stimuli content as PIP's media objects
@@ -27,7 +27,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/ShizaBrown348/Final@main/qstia1.j
 			name : 'Interpersonal Coldness', //Attribute label
 			title : {
 				media : {word : 'Interpersonal Coldness'}, //Name of the category presented in the task.
-				css : {color:'#31b404','font-size':'1em'}, //Style of the category title.
+				css : {color:'#31b404','font-size':'2.5em'}, //Style of the category title.
 				height : 5 //Used to position the "Or" in the combined block.
 			}, 
 			media : [ //Stimuli
@@ -47,7 +47,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/ShizaBrown348/Final@main/qstia1.j
 			name : 'Interpersonal Warmth', //Attribute label
 			title : {
 				media : {word : 'Interpersonal Warmth'}, //Name of the category presented in the task.
-				css : {color:'#31b404','font-size':'1em'}, //Style of the category title.
+				css : {color:'#31b404','font-size':'2.5em'}, //Style of the category title.
 				height : 5 //Used to position the "Or" in the combined block.
 			}, 
 			media : [ //Stimuli
